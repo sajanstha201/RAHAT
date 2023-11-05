@@ -8,12 +8,20 @@ import linkedin from "../images/linkedin.png";
 import ngl from "../images/ngl.jpeg";
 import discord from "../images/discord.png";
 import {Link} from 'react-router-dom';
+import { useState } from 'react';
 function NavBar(){
+  const [isMouseOver,setStyle]=useState(false);
+  const style_rahat_logo={width:isMouseOver?'77px':'75px',height:isMouseOver?'77px':'75px'}
     return(
         <div className="NavBar">
-            <img src={rahat_logo} alt="rahat logo" className="logo"></img>
+          <div style={{width:'10px'}}>
+          <Link to="/RAHAT">
+            <img src={rahat_logo} alt="rahat logo" onMouseOver={()=>setStyle(true)} onMouseLeave={()=>setStyle(false)}
+             style={style_rahat_logo} className="logo">
+            </img>
+            </Link>
+          </div >
             <ul className="lists">
-                <li><Link to="/RAHAT">Home</Link></li>
                 <li><Link to="/Team">Team</Link></li> 
                 <li><Link to="/AboutUs">About Us</Link></li>
                 <li><a href="https://sajanstha201.github.io/2D-Game-With-Vanilla-Javascript/">Games</a></li>

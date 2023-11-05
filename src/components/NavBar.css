@@ -8,13 +8,19 @@
     width:75px;
     height:75px;
     border-radius: 10px;
+    margin-right:50px;
 }
 .NavBar>*{
     display: inline;
 }
+.lists{
+    position:absolute;
+    left:100px;
+}
 .lists li{
 position: relative;
-top:-30px;
+top:10px;
+left:0px;
 display: inline;
 text-align: center;
 list-style-type: none;
