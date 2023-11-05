@@ -16,6 +16,7 @@ function Books(){
         <div style={{display:'inline-block',textAlign:'center',width:'100%'}}>
             <IndividualBook obj={object}/><IndividualBook obj={object}/>
         </div>
+        
         </>
     );
 }
