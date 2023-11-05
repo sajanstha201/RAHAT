@@ -7,8 +7,7 @@ function NavBar(){
             <img src={rahat_logo} alt="rahat logo" className="logo"></img>
             <ul className="lists">
                 <li><Link to="/">Home</Link></li>
-                <li><Link to="/Team">Team</Link></li>
-                <li><Link to="/ContactUs">Contact Us</Link></li>
+                <li><Link to="/Team">Team</Link></li> 
                 <li><Link to="/AboutUs">About Us</Link></li>
             </ul>
             <span className='search'>
