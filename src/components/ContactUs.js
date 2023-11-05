@@ -12,7 +12,8 @@ function ContactUs(){
               <a href="https://www.instagram.com/rahat_to_all/?igshid=NzZlODBkYWE4Ng%3D%3D"> 
                  <img src={instagram} class="icons"></img> </a>
             <img src={twitter} class="icons"></img>
-            <img src={linkedin} class="icons"></img>
+            <a href="https://www.linkedin.com/company/rahat-the-mental-wellbeing-community/">
+              <img src={linkedin} class="icons"></img></a>
           </div>
           <img src={telephone} class="telephone"></img>
           <span>8073292155</span>
