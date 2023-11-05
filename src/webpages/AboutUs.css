@@ -1,0 +1,15 @@
+
+.list-of-objective li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.objective{
+    text-align: center;
+}
+.whyRahat{
+    margin-left: auto;
+    margin-right:auto;
+    position: relative;
+    width:50%;
+    text-align: center;
+}

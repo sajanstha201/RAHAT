@@ -1,0 +1,19 @@
+.left-div{
+    width:30%;
+}
+.middle-div{
+    width:60%;
+}
+.right-div{
+    width:30%;
+}
+.home-page{
+    display: flex;
+    text-align: center;
+}
+.image{
+    width:300px;
+    height:300px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
