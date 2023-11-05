@@ -1,18 +1,10 @@
-.ContactUs{
-    height:200px;
+.Footer{
+    height:100px;
     display: block;
     background-color: rgb(236, 225, 212);
     text-align: center;
 }
-.socialMedia{
-    text-align: center;
-}
-.icons{
-    width:30px;
-    height:30px;
-    padding: 10px;
-}
-#telephone{
+.telephone{
     position: relative;
     top:4px;
     width:30px;

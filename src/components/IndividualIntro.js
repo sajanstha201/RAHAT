@@ -7,8 +7,6 @@ function IndividualIntro({obj}){
             <h4>{obj.name}</h4>
             <p>{obj.officeName}</p>
             <p>{obj.position}</p>
-            <span> <img alt="call" src={telephone} className="telephone"></img></span>
-            <span>{obj.contact}</span>
         </div>
     );
 }
