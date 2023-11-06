@@ -47,7 +47,6 @@ function Team(){
 
     let ayush_kumar_singh=new Member("Ayush Kumar Singh",ayush_kumar_singh_img,"Head","Social Media Team");
     let sravya_ravuri=new Member("Sravya Ravuri",sravya_ravuri_img,"Member","Social Media Team");
-    let satvika_m=new Member("Satvika M",sajan_shrestha,"Member","Social Media Team");
 
     let sreekar_reddy=new Member("Sreekar Reddy",sreekar_reddy_img,"Head","Media Team");
     let ruchitankshi_amogh=new Member("Ruchitankshi Amogh",ruchitankshi_amogh_img,"Member","Media Team");
@@ -80,7 +79,7 @@ function Team(){
         </div>
 
         <div style={{display:'inline-block',textAlign:'center',width:'100%'}}>
-            <IndividualIntro obj={ayush_kumar_singh}/><IndividualIntro obj={sravya_ravuri}/><IndividualIntro obj={satvika_m}/>
+            <IndividualIntro obj={ayush_kumar_singh}/><IndividualIntro obj={sravya_ravuri}/>
         </div>
 
         <div style={{display:'inline-block',textAlign:'center',width:'100%'}}>
