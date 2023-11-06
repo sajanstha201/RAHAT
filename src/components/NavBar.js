@@ -1,9 +1,7 @@
 import './NavBar.css';
 import rahat_logo from '../images/rahat_logo.jpeg';
-import facbook from "../images/facebook.png";
 import instagram from "../images/instagram.png";
 import twitter from "../images/twitter.png";
-import telephone from "../images/telephone.png";
 import linkedin from "../images/linkedin.png";
 import ngl from "../images/ngl.jpeg";
 import discord from "../images/discord.png";
@@ -29,16 +27,16 @@ function NavBar(){
             </ul>
             <div class="socialMedia">
               <a href="https://www.instagram.com/rahat_to_all/?igshid=NzZlODBkYWE4Ng%3D%3D"> 
-                 <img src={instagram} class="icons"></img> </a>
+                 <img src={instagram} alt="instagram" class="icons"></img> </a>
             <a href="https://x.com/RahatMAHEBlr?t=TR8M90Unu6cHpFsPxTTf-A&s=08">
-            <img src={twitter} class="icons"></img>
+            <img src={twitter} alt="twitter" class="icons"></img>
               </a>
             <a href="https://www.linkedin.com/company/rahat-the-mental-wellbeing-community/">
-              <img src={linkedin} class="icons"></img></a>
+              <img src={linkedin} alt="linkedin" class="icons"></img></a>
               <a href="https://ngl.link/rahat_to_all1">
-                <img src={ngl} class="icons"></img></a>
+                <img src={ngl} alt="ngl" class="icons"></img></a>
                 <a href="https://discord.com/invite/C9AA4EEB">
-                <img src={discord} class="icons"></img></a>
+                <img src={discord} alt="discord" class="icons"></img></a>
           </div>
         </div>
     );

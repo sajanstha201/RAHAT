@@ -1,5 +1,4 @@
 import IndividualIntro from "../components/IndividualIntro";
-import image from "../images/rahat_logo.jpeg";
 import sajan_shrestha_img from "../images/Teams/sajan_shrestha_img.jpeg";
 import Jathin_Bharadwaz_P_img from "../images/Teams/Jathin_Bharadwaz_P_img.jpeg";
 import Jhagruth_Palakonda_img from "../images/Teams/Jhagruth_Palakonda_img.jpg";
