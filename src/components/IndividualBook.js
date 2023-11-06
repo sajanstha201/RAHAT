@@ -1,10 +1,10 @@
 import './IndividualBook.css';
 function IndividualBook({obj}){
     return(
-        <div className="individual-container">
+        <div className="individual-book-container">
             <a href={obj.url}><img alt={obj.name} src={obj.image} className="book-image"></img></a>
-            <h4>{obj.name}</h4>
-            <h4>Rating: {obj.rating}</h4>
+            <p style={{margin:'0px'}}>{obj.name}</p>
+            <p style={{margin:'0px'}}>Rating: {obj.rating}</p>
         </div>
     );
 }

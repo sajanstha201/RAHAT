@@ -13,10 +13,13 @@ function Books(){
             this.rating=rating;
         }
     }
-    let object=new Books("Rahat",image," ",6);
+    let object=new Books("Rahatsdfs",image," ",6);
+    let object2=new Books("sajan shrestha",image," ",6);
     return(
         <>
         <div style={{display:'inline-block',textAlign:'center',width:'100%'}}>
+            <IndividualBook obj={object2}/><IndividualBook obj={object}/>
+            <IndividualBook obj={object2}/><IndividualBook obj={object2}/>
             <IndividualBook obj={object}/><IndividualBook obj={object}/>
         </div>
         </>

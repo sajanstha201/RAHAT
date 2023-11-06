@@ -1,7 +1,5 @@
 .individual-container{
-    display:inline-block;
-    width:500px;
-    height:500px;
+    display: inline-block;
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
     padding: 20px;
@@ -19,8 +17,8 @@
     height:20px;
 }
 .profile-layout{
-    width:300px;
-    height:400px;
+    width:210px;
+    height:280px;
     border-radius: 50px;
     margin-bottom: 30px;
 }

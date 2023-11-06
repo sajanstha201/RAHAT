@@ -12,8 +12,9 @@ function Home(){
 
             </div>
             <div class="middle-div">
-            <h3>Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.</h3>
+                <br></br>
             <img src={rahat_logo} alt="image1" class="image"></img>
+            <h3>Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.</h3>
             </div>
             <div class="right-div">
 

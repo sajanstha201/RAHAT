@@ -17,6 +17,11 @@ import gungun_kumari_img from "../images/Teams/gungun_kumari_img.jpeg";
 import sravya_ravuri_img from "../images/Teams/sravya_ravuri_img.jpeg";
 import sreekar_reddy_img from "../images/Teams/sreekar_reddy_img.jpeg";
 import jhanavi_agarwal_img from "../images/Teams/jhanavi_agarwal_img.jpeg";
+import jiya_puri_img from "../images/Teams/jiya_puri_img.jpeg";
+import ayush_kumar_singh_img from "../images/Teams/ayush_kumar_singh_img.jpeg";
+import harishith_bathala_img from "../images/Teams/harishith_bathala_img.jpeg";
+import parkhi_manya_img from "../images/Teams/pakhi_manya_img.jpeg";
+import ruchitankshi_amogh_img from "../images/Teams/ruchitankshi_amogh_img.jpeg";
 function Team(){
     class Member{
         constructor(name,image,position,officeName){
@@ -36,25 +41,25 @@ function Team(){
     let sumnima_rai=new Member("Sumnima Rai",sumnima_rai_img,"Head","Executive");
     let Jathin_Bharadwaz_P=new Member("Jathin Bharadwaz P",Jathin_Bharadwaz_P_img,"Head","Creative");
 
-    let jiya_puri=new Member("Jiya Puri",sajan_shrestha,"Head","Logistic Team");
+    let jiya_puri=new Member("Jiya Puri",jiya_puri_img,"Head","Logistic Team");
     let gungun_kumari=new Member("Gungun Kumari",gungun_kumari_img,"Member","Logistic Team");
-    let bathala_harshith=new Member("Bathala Harhith",sajan_shrestha,"Member","Logistic Team");
+    let bathala_harshith=new Member("Bathala Harhith",harishith_bathala_img,"Member","Logistic Team");
     let Jhagruth_Palakonda=new Member("Jhagruth Palakonda",Jhagruth_Palakonda_img,"Member","Logistic Team");
 
-    let ayush_kumar_singh=new Member("Ayush Kumar Singh",sajan_shrestha,"Head","Social Media Team");
+    let ayush_kumar_singh=new Member("Ayush Kumar Singh",ayush_kumar_singh_img,"Head","Social Media Team");
     let sravya_ravuri=new Member("Sravya Ravuri",sravya_ravuri_img,"Member","Social Media Team");
     let satvika_m=new Member("Satvika M",sajan_shrestha,"Member","Social Media Team");
 
     let sreekar_reddy=new Member("Sreekar Reddy",sreekar_reddy_img,"Head","Media Team");
-    let ruchitankshi_amogh=new Member("Ruchitankshi Amogh",sajan_shrestha,"Member","Media Team");
+    let ruchitankshi_amogh=new Member("Ruchitankshi Amogh",ruchitankshi_amogh_img,"Member","Media Team");
     let ishaan_prakash=new Member("Ishaan Prakash",ishaan_prakash_img,"Member","Media Team");
 
     let ayush_bhavanasi=new Member("Ayush Bhavanasi",sajan_shrestha,"Head","Graphic  Designer");
-    let nayana_ammrutha=new Member("Nayana Amrutha",sajan_shrestha,"Member","Graphic Designer");
+    let nayana_nandyal=new Member("Nayana Nandyal",nayana_nandyal_img,"Member","Graphic Designer");
 
     let prince_shrestha=new Member("Prince Shrestha",prince_shrestha_img,"Head","Promotions and Marketing");
     let deepta_goswami=new Member("Deepta Goswami",dheepta_goswami_img,"Member","Promotions and Marketing");
-    let parkhi_manya=new Member("Parkhi Manya",sajan_shrestha,"Member","Promotions and Marketing")
+    let parkhi_manya=new Member("Parkhi Manya",parkhi_manya_img,"Member","Promotions and Marketing")
     let bicky_yadav=new Member("Bicky Yadav",bicky_yadav_img,"Memeber","Promotions and Marketing");
 
     return(
@@ -84,7 +89,7 @@ function Team(){
         </div>
 
         <div style={{display:'inline-block',textAlign:'center',width:'100%'}}>
-            <IndividualIntro obj={ayush_bhavanasi}/><IndividualIntro obj={nayana_ammrutha}/>
+            <IndividualIntro obj={ayush_bhavanasi}/><IndividualIntro obj={nayana_nandyal}/>
         </div>
 
         <div style={{display:'inline-block',textAlign:'center',width:'100%'}}>
