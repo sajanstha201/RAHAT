@@ -21,6 +21,7 @@ import ayush_kumar_singh_img from "../images/Teams/ayush_kumar_singh_img.jpeg";
 import harishith_bathala_img from "../images/Teams/harishith_bathala_img.jpeg";
 import parkhi_manya_img from "../images/Teams/pakhi_manya_img.jpeg";
 import ruchitankshi_amogh_img from "../images/Teams/ruchitankshi_amogh_img.jpeg";
+import ayush_bhavanasi_img from "../images/Teams/ayush_bhavanasi_img.jpeg";
 function Team(){
     class Member{
         constructor(name,image,position,officeName){
@@ -34,7 +35,7 @@ function Team(){
     let geet_chhabra=new Member("Geet Chhabra",geet_chhabra_img,"Vice President","");
 
     let jhanavi_agarwal=new Member("Jhanavi Agarwal",jhanavi_agarwal_img,"General Secretary","");
-    let sajan_shrestha=new Member("sajan shrestha",sajan_shrestha_img,"Head","Online Resource");
+    let sajan_shrestha=new Member("sajan shrestha",sajan_shrestha_img,"Online Resource Head","");
     let aditya_chitransh=new Member("Aditya Chitransh",aditya_chitransh_img,"Treasurer","");
 
     let sumnima_rai=new Member("Sumnima Rai",sumnima_rai_img,"Head","Executive");
@@ -52,7 +53,7 @@ function Team(){
     let ruchitankshi_amogh=new Member("Ruchitankshi Amogh",ruchitankshi_amogh_img,"Member","Media Team");
     let ishaan_prakash=new Member("Ishaan Prakash",ishaan_prakash_img,"Member","Media Team");
 
-    let ayush_bhavanasi=new Member("Ayush Bhavanasi",sajan_shrestha,"Head","Graphic  Designer");
+    let ayush_bhavanasi=new Member("Ayush Bhavanasi",ayush_bhavanasi_img,"Head","Graphic  Designer");
     let nayana_nandyal=new Member("Nayana Nandyal",nayana_nandyal_img,"Member","Graphic Designer");
 
     let prince_shrestha=new Member("Prince Shrestha",prince_shrestha_img,"Head","Promotions and Marketing");

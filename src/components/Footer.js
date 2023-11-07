@@ -4,7 +4,7 @@ function Footer(){
     return(
         <div class="Footer">
           <p style={{margin:'0%'}}>Contact Us</p>
-          <a href="mailto:rahatmanipal@gmail.com">rahatmanipal@gmail.com</a>
+          <a href="mailto:rahatmanipal@gmail.com" style={{textDecoration:"none",color:"black"}}>rahatmanipal@gmail.com</a>
         </div>
     );
 }

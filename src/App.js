@@ -5,6 +5,7 @@ import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import Books from './webpages/Books';
+import Videos from './webpages/Videos';
 import './App.css';
 function App(){
   return(

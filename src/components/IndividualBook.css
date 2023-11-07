@@ -3,6 +3,8 @@
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
     padding: 20px;
+    height:300px;
+    width:300px;
 }
 .individual-container>*{
     margin: 0%;
@@ -12,7 +14,7 @@
 }
 .book-image{
     width:120px;
-    height:130px;
+    height:150px;
     border-radius: 10px;
     margin-bottom: 0px;
 }
