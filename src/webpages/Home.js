@@ -13,8 +13,15 @@ function Home(){
             </div>
             <div class="middle-div">
                 <br></br>
+                <h1>Introducing MAHE's very own mental wellbeing community</h1>
             <img src={rahat_logo} alt="image1" class="image"></img>
-            <h3>Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.</h3>
+            <h3>RAHAT IS OPEN TO ALL DEPTS OF MAHE, BENGALURU!</h3>
+            <h3 style={{fontFamily:"RoxboroughCF"}}>STAY TUNED FOR MORE UPDATES!!!</h3>
+            <br></br>
+            <h3>WHAT IS RAHAT?</h3>
+            <p >Rahat is like a friendly hand when things get stressful. It's a place where we can talk about how we feel and learn ways to stay strong during college life and even after it. 
+                It is a vibrant, fun-filled haven for socializing, adventure and a variety of enjoyable activities aimed at enhancing campus well-being
+            </p>
             </div>
             <div class="right-div">
 

@@ -4,6 +4,7 @@ function AboutUs(){
 <>
 <div>
     <div class="objective">
+        <br></br>
         <h2>Objectives</h2>
         <ul class="list-of-objective">
             <li>Collaboration with Psychology Faculty</li>
@@ -17,6 +18,7 @@ function AboutUs(){
             <li>Therapy Sessions</li>
             <li>Citywide Campaigns</li>
         </ul>
+        <br></br>
         <div class="whyRahat">
         <h2>Why  rahat?</h2>
             <p>The establishment of the "Rahat" Mental Health Community at MAHE
@@ -26,6 +28,14 @@ function AboutUs(){
             initiative a reality.
             Thank you for considering our proposal. We are looking forward to discussing this further
             and working collaboratively to enhance the mental well-being of our students.
+        </p>
+        <p>
+        We at Rahat believe that everyone’s mental health matters.
+        Rahat is a secure and accepting environment where people can openly share their vulnerabilities without fear of 
+        judgment.
+            We launched Rahat to ensure that everyone, regardless of their challenges, 
+                knows they're never alone. Our goal is to create a safe and welcoming campus where we can all come together,
+                have conversations, provide support, and assist one another
         </p>
         </div>
 

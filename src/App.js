@@ -10,7 +10,7 @@ import './App.css';
 function App(){
   return(
     <Router>
-      <div style={{margin:1}}>
+      <div style={{margin:1,background:"rgb(239,230,213,255)"}}>
         <NavBar/>
         <div class="body">
         <Routes>
