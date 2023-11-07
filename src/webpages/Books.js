@@ -28,7 +28,7 @@ function Books(){
     return(
         <>
         <div style={{textAlign:'center',width:'100%',display:'flex'}}>
-            <div style={{width:'25px'}}>
+            <div style={{width:'200px'}}>
 
             </div>
             <div>
@@ -37,7 +37,7 @@ function Books(){
             <IndividualBook obj={book5}/><IndividualBook obj={book6}/>
             <IndividualBook obj={book7}/><IndividualBook obj={book8}/>
             </div>
-            <div style={{width:'25px'}}>
+            <div style={{width:'200px'}}>
 
             </div>
         </div>
