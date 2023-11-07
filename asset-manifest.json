@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/RAHAT/static/css/main.458960a9.css",
-    "main.js": "/RAHAT/static/js/main.698fe7a0.js",
+    "main.css": "/RAHAT/static/css/main.98fd0f5c.css",
+    "main.js": "/RAHAT/static/js/main.20717720.js",
     "static/js/787.ab8bcad8.chunk.js": "/RAHAT/static/js/787.ab8bcad8.chunk.js",
+    "static/media/book4_img.jpeg": "/RAHAT/static/media/book4_img.3ec78e2346c402362e77.jpeg",
     "static/media/sumnima_rai_img.jpeg": "/RAHAT/static/media/sumnima_rai_img.8b5670a94de8f8773db7.jpeg",
+    "static/media/mental_health_is_common_to_all_of_us_img.png": "/RAHAT/static/media/mental_health_is_common_to_all_of_us_img.9c6cb573cabe411471c3.png",
+    "static/media/book5_img.jpeg": "/RAHAT/static/media/book5_img.e5798afa307e80d7ed0d.jpeg",
     "static/media/aditya_chitransh_img.jpeg": "/RAHAT/static/media/aditya_chitransh_img.8550023306eee008f138.jpeg",
     "static/media/jhanavi_agarwal_img.jpeg": "/RAHAT/static/media/jhanavi_agarwal_img.3bc0c04c2a0095638808.jpeg",
     "static/media/sravya_ravuri_img.jpeg": "/RAHAT/static/media/sravya_ravuri_img.e9e2660d2f817a3411bc.jpeg",
@@ -16,15 +19,22 @@
     "static/media/ayush_kumar_singh_img.jpeg": "/RAHAT/static/media/ayush_kumar_singh_img.744b5e816a11cad7089a.jpeg",
     "static/media/neer_mittal_img.jpeg": "/RAHAT/static/media/neer_mittal_img.bb86fbf297a8adfba0e9.jpeg",
     "static/media/ishaan_prakash_img.jpeg": "/RAHAT/static/media/ishaan_prakash_img.5cf8c8332d34e2d54454.jpeg",
+    "static/media/book3_img.jpeg": "/RAHAT/static/media/book3_img.9ba94358f3624300d68a.jpeg",
     "static/media/prince_shrestha_img.jpeg": "/RAHAT/static/media/prince_shrestha_img.bc8c33ece2b0f6deb4a7.jpeg",
     "static/media/sreekar_reddy_img.jpeg": "/RAHAT/static/media/sreekar_reddy_img.eeead97378776798f924.jpeg",
     "static/media/image5.jpeg": "/RAHAT/static/media/image5.86507ea0ff8bb3fe43a4.jpeg",
+    "static/media/book6_img.jpeg": "/RAHAT/static/media/book6_img.e32fa483f0b93caac401.jpeg",
     "static/media/ruchitankshi_amogh_img.jpeg": "/RAHAT/static/media/ruchitankshi_amogh_img.9af55a1ba8ad2c22a4ee.jpeg",
     "static/media/image4.jpeg": "/RAHAT/static/media/image4.b820adbe07030e3c5cab.jpeg",
+    "static/media/book1_img.jpeg": "/RAHAT/static/media/book1_img.9115a43448e16c6d4af5.jpeg",
+    "static/media/ayush_bhavanasi_img.jpeg": "/RAHAT/static/media/ayush_bhavanasi_img.01ba14f6cc5ea2e65fb1.jpeg",
+    "static/media/book7_img.jpeg": "/RAHAT/static/media/book7_img.21dec70e18d55fd90896.jpeg",
     "static/media/image2.jpeg": "/RAHAT/static/media/image2.706e3bf55f06125b614a.jpeg",
     "static/media/image1.jpeg": "/RAHAT/static/media/image1.983544f53b6cb9c3f4a6.jpeg",
     "static/media/image3.jpeg": "/RAHAT/static/media/image3.9cc4da59e88e9e9bca99.jpeg",
     "static/media/geet_chhabra_img.jpeg": "/RAHAT/static/media/geet_chhabra_img.886386112e8bcbb286c6.jpeg",
+    "static/media/book8_img.jpeg": "/RAHAT/static/media/book8_img.a458245cc137a3da0660.jpeg",
+    "static/media/book2_img.jpeg": "/RAHAT/static/media/book2_img.cbef7a69fa30ffa5543b.jpeg",
     "static/media/sajan_shrestha_img.jpeg": "/RAHAT/static/media/sajan_shrestha_img.9f7ef8afe69ee586be18.jpeg",
     "static/media/gungun_kumari_img.jpeg": "/RAHAT/static/media/gungun_kumari_img.6759ea2c074c7f637271.jpeg",
     "static/media/Jathin_Bharadwaz_P_img.jpeg": "/RAHAT/static/media/Jathin_Bharadwaz_P_img.d186316119390e602ece.jpeg",
@@ -36,12 +46,12 @@
     "static/media/twitter.png": "/RAHAT/static/media/twitter.112d93100806a70e5d28.png",
     "static/media/linkedin.png": "/RAHAT/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/RAHAT/index.html",
-    "main.458960a9.css.map": "/RAHAT/static/css/main.458960a9.css.map",
-    "main.698fe7a0.js.map": "/RAHAT/static/js/main.698fe7a0.js.map",
+    "main.98fd0f5c.css.map": "/RAHAT/static/css/main.98fd0f5c.css.map",
+    "main.20717720.js.map": "/RAHAT/static/js/main.20717720.js.map",
     "787.ab8bcad8.chunk.js.map": "/RAHAT/static/js/787.ab8bcad8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.458960a9.css",
-    "static/js/main.698fe7a0.js"
+    "static/css/main.98fd0f5c.css",
+    "static/js/main.20717720.js"
   ]
 }
