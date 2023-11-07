@@ -1,9 +1,5 @@
 import IndividualBook from "../components/IndividualBook";
-import image from '../images/rahat_logo.jpeg';
-import leftArrow from '../images/leftArrow.png';
-import rightArrow from '../images/rightArrow.png';
 import './Books.css';
-import { useState } from "react";
 import book1_img from "../images/Books/book1_img.jpeg";
 import book2_img from "../images/Books/book2_img.jpeg";
 import book3_img from "../images/Books/book3_img.jpeg";
@@ -31,7 +27,7 @@ function Books(){
     let book8=new Book("Best for understanding family trauma: It Didn’t Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",book8_img,"https://www.amazon.in/Didnt-Start-You-Inherited-Family/dp/1101980362");
     return(
         <>
-        <div style={{display:'inline-block',textAlign:'center',width:'100%',display:'flex'}}>
+        <div style={{textAlign:'center',width:'100%',display:'flex'}}>
             <div style={{width:'25px'}}>
 
             </div>
