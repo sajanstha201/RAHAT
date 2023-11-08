@@ -4,8 +4,7 @@ import Team from './webpages/Team';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
-import Books from './webpages/Books';
-import Videos from './webpages/Videos';
+import Resources from './webpages/Resources';
 import './App.css';
 function App(){
   return(
@@ -17,7 +16,7 @@ function App(){
           <Route exact path="/club" Component={Home}></Route>
           <Route path="/AboutUs" Component={AboutUs}></Route>
           <Route path="/Team" Component={Team}></Route>
-          <Route path="/Books" Component={Books}></Route>
+          <Route path="/Resources" Component={Resources}></Route>
         </Routes>
         </div>
         <Footer/>

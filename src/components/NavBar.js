@@ -22,8 +22,7 @@ function NavBar(){
             <ul className="lists">
                 <li><Link to="/Team">Team</Link></li> 
                 <li><Link to="/AboutUs">About Us</Link></li>
-                <li><a href="https://sajanstha201.github.io/2D-Game-With-Vanilla-Javascript/">Games</a></li>
-                <li><Link to="/Books">Books</Link></li>
+                <li><Link to="/Resources">Resources</Link></li>
             </ul>
             <div class="socialMedia">
               <a href="https://www.instagram.com/rahat_to_all/?igshid=NzZlODBkYWE4Ng%3D%3D"> 

@@ -1,4 +1,4 @@
-import IndividualBook from "../components/IndividualBook";
+import IndividualBook from "./IndividualBook";
 import './Books.css';
 import book1_img from "../images/Books/book1_img.jpeg";
 import book2_img from "../images/Books/book2_img.jpeg";
