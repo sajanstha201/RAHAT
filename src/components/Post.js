@@ -17,14 +17,14 @@ function Post(){
     let post3=new post(image2,300,300);
     let post4=new post(image3,300,300);
     return(
-        <div style={{display:"block"}}>
+        <div style={{display:'flex'}}>
+            <div style={{width:'150px'}}></div>
         <div style={{display:"flex"}}>
-        <IndividualPost post={post1}/>
         <IndividualPost post={post2}/>
         <IndividualPost post={post3}/>
         <IndividualPost post={post4}/>
         </div>
-
+        <div style={{width:'150px'}}></div>
         </div>
     );
 }
