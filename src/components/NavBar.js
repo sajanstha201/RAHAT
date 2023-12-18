@@ -13,7 +13,7 @@ function NavBar(){
     return(
         <div className="NavBar">
           <div style={{width:'10px'}}>
-          <Link to="/club">
+          <Link to="">
             <img src={rahat_logo} alt="rahat logo" onMouseOver={()=>setStyle(true)} onMouseLeave={()=>setStyle(false)}
              style={style_rahat_logo} className="logo">
             </img>
