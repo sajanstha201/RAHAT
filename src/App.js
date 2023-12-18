@@ -13,7 +13,7 @@ function App(){
         <NavBar/>
         <div class="body">
         <Routes>
-          <Route exact path="/RAHAT" Component={Home}></Route>
+          <Route exact path="/club" Component={Home}></Route>
           <Route path="/AboutUs" Component={AboutUs}></Route>
           <Route path="/Team" Component={Team}></Route>
           <Route path="/Resources" Component={Resources}></Route>
