@@ -23,6 +23,7 @@ function NavBar(){
                 <li><Link to="/Team">Team</Link></li> 
                 <li><Link to="/AboutUs">About Us</Link></li>
                 <li><Link to="/Resources">Resources</Link></li>
+                <li><Link to="/Counsellor">Counsellor</Link></li>
             </ul>
             <div class="socialMedia">
               <a href="https://www.instagram.com/rahat_to_all/?igshid=NzZlODBkYWE4Ng%3D%3D"> 

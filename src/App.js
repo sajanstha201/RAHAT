@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import Resources from './webpages/Resources';
 import './App.css';
+import Counsellor from './webpages/Counsellor';
 function App(){
   return(
     <Router>
@@ -17,6 +18,7 @@ function App(){
           <Route path="/AboutUs" Component={AboutUs}></Route>
           <Route path="/Team" Component={Team}></Route>
           <Route path="/Resources" Component={Resources}></Route>
+          <Route path="/Counsellor" Component={Counsellor}></Route>
         </Routes>
         </div>
         <Footer/>
