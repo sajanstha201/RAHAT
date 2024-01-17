@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RAHAT/static/css/main.629fe7f6.css",
-    "main.js": "/RAHAT/static/js/main.439b9f69.js",
+    "main.css": "/RAHAT/static/css/main.841aab65.css",
+    "main.js": "/RAHAT/static/js/main.77508094.js",
     "static/js/787.ab8bcad8.chunk.js": "/RAHAT/static/js/787.ab8bcad8.chunk.js",
     "static/media/book4_img.jpeg": "/RAHAT/static/media/book4_img.3ec78e2346c402362e77.jpeg",
     "static/media/2.png": "/RAHAT/static/media/2.3a236fd6790637df0609.png",
@@ -29,6 +29,7 @@
     "static/media/ruchitankshi_amogh_img.jpeg": "/RAHAT/static/media/ruchitankshi_amogh_img.9af55a1ba8ad2c22a4ee.jpeg",
     "static/media/image4.jpeg": "/RAHAT/static/media/image4.b820adbe07030e3c5cab.jpeg",
     "static/media/book1_img.jpeg": "/RAHAT/static/media/book1_img.9115a43448e16c6d4af5.jpeg",
+    "static/media/qrcode.png": "/RAHAT/static/media/qrcode.6a41187719c83d02ef97.png",
     "static/media/ayush_bhavanasi_img.jpeg": "/RAHAT/static/media/ayush_bhavanasi_img.01ba14f6cc5ea2e65fb1.jpeg",
     "static/media/book7_img.jpeg": "/RAHAT/static/media/book7_img.21dec70e18d55fd90896.jpeg",
     "static/media/image2.jpeg": "/RAHAT/static/media/image2.706e3bf55f06125b614a.jpeg",
@@ -48,12 +49,12 @@
     "static/media/twitter.png": "/RAHAT/static/media/twitter.112d93100806a70e5d28.png",
     "static/media/linkedin.png": "/RAHAT/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/RAHAT/index.html",
-    "main.629fe7f6.css.map": "/RAHAT/static/css/main.629fe7f6.css.map",
-    "main.439b9f69.js.map": "/RAHAT/static/js/main.439b9f69.js.map",
+    "main.841aab65.css.map": "/RAHAT/static/css/main.841aab65.css.map",
+    "main.77508094.js.map": "/RAHAT/static/js/main.77508094.js.map",
     "787.ab8bcad8.chunk.js.map": "/RAHAT/static/js/787.ab8bcad8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.629fe7f6.css",
-    "static/js/main.439b9f69.js"
+    "static/css/main.841aab65.css",
+    "static/js/main.77508094.js"
   ]
 }
