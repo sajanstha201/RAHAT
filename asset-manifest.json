@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RAHAT/static/css/main.841aab65.css",
-    "main.js": "/RAHAT/static/js/main.77508094.js",
+    "main.js": "/RAHAT/static/js/main.df3f148b.js",
     "static/js/787.ab8bcad8.chunk.js": "/RAHAT/static/js/787.ab8bcad8.chunk.js",
     "static/media/book4_img.jpeg": "/RAHAT/static/media/book4_img.3ec78e2346c402362e77.jpeg",
     "static/media/2.png": "/RAHAT/static/media/2.3a236fd6790637df0609.png",
@@ -50,11 +50,11 @@
     "static/media/linkedin.png": "/RAHAT/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/RAHAT/index.html",
     "main.841aab65.css.map": "/RAHAT/static/css/main.841aab65.css.map",
-    "main.77508094.js.map": "/RAHAT/static/js/main.77508094.js.map",
+    "main.df3f148b.js.map": "/RAHAT/static/js/main.df3f148b.js.map",
     "787.ab8bcad8.chunk.js.map": "/RAHAT/static/js/787.ab8bcad8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.841aab65.css",
-    "static/js/main.77508094.js"
+    "static/js/main.df3f148b.js"
   ]
 }
